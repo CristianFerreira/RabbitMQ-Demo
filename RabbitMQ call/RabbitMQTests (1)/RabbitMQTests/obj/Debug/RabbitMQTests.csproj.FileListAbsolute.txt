@@ -1,0 +1,15 @@
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\RabbitMQTests.exe.config
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\RabbitMQTests.exe
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\RabbitMQTests.pdb
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\Newtonsoft.Json.dll
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\RabbitMQ.Client.dll
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\Newtonsoft.Json.pdb
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\Newtonsoft.Json.xml
+C:\teste\RabbitMQ\RabbitMQTests\bin\Debug\RabbitMQ.Client.xml
+C:\teste\RabbitMQ\RabbitMQTests\obj\Debug\RabbitMQTests.csprojAssemblyReference.cache
+C:\teste\RabbitMQ\RabbitMQTests\obj\Debug\RabbitMQTests.csproj.CoreCompileInputs.cache
+C:\teste\RabbitMQ\RabbitMQTests\obj\Debug\RabbitMQTests.csproj.CopyComplete
+C:\teste\RabbitMQ\RabbitMQTests\obj\Debug\RabbitMQTests.exe
+C:\teste\RabbitMQ\RabbitMQTests\obj\Debug\RabbitMQTests.pdb
